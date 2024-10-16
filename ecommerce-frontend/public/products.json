@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Running Shoes",
+    "description": "Comfortable running shoes for daily jogs.",
+    "price": 100,
+    "rating": 4.5,
+    "sizes": [
+      { "size": "S", "quantity": 10 },
+      { "size": "M", "quantity": 15 },
+      { "size": "L", "quantity": 8 }
+    ],
+    "image": "https://www.campusshoes.com/cdn/shop/files/CHANCE_22G-1068_WHT-T.BLU_2.jpg?v=1689246379"  
+  },
+  {
+    "id": 2,
+    "name": "T-Shirt",
+    "description": "High-quality cotton T-shirt available in multiple colors.",
+    "price": 20,
+    "rating": 4.2,
+    "sizes": [
+      { "size": "S", "quantity": 20 },
+      { "size": "M", "quantity": 30 },
+      { "size": "L", "quantity": 10 }
+    ],
+    "image": "https://d118ps6mg0w7om.cloudfront.net/media/catalog/product/0/5/fit-in/1000x1333/05-04-24_mfs-14863-s-165-multi_1_mfs-14863-s-165-multi.jpg"  
+  },
+  {
+    "id": 3,
+    "name": "Jeans",
+    "description": "Durable and stylish jeans for casual wear.",
+    "price": 50,
+    "rating": 4.7,
+    "sizes": [
+      { "size": "S", "quantity": 5 },
+      { "size": "M", "quantity": 12 },
+      { "size": "L", "quantity": 8 }
+    ],
+    "image": "https://styleunion.in/cdn/shop/products/LFJ00098STONE_1.jpg?v=1702043202&width=1200"  
+  }
+]
+

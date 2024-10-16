@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Running Shoes",
+    "description": "Comfortable running shoes",
+    "price": 100,
+    "rating": 4.5,
+    "sizes": [
+      { "size": "S", "quantity": 10 },
+      { "size": "M", "quantity": 15 },
+      { "size": "L", "quantity": 8 }
+    ],
+    "image": "https://www.campusshoes.com/cdn/shop/files/CHANCE_22G-1068_WHT-T.BLU_2.jpg?v=1689246379" 
+  },
+  {
+    "id": 2,
+    "name": "T-Shirt",
+    "description": "High-quality cotton T-shirt",
+    "price": 20,
+    "rating": 4.2,
+    "sizes": [
+      { "size": "S", "quantity": 20 },
+      { "size": "M", "quantity": 30 },
+      { "size": "L", "quantity": 10 }
+    ],
+    "image": "https://www.campusshoes.com/cdn/shop/files/CHANCE_22G-1068_WHT-T.BLU_2.jpg?v=1689246379" 
+  }
+]
